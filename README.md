@@ -1,4 +1,5 @@
-## Hi there 👋
+## Hi there ✨
+## My name is Pearl!
 
 <!--
 **pguglani0911/pguglani0911** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
